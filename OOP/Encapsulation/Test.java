@@ -1,5 +1,8 @@
 /* Example of encapsulation (information hiding) */
 
+/* Good post on Abstraction vs. Encapsulation:
+https://stackoverflow.com/questions/11965929/abstraction-vs-encapsulation-in-java */
+
 class Student{  
     
     private String name;
